@@ -36,8 +36,7 @@ Setiap file berisi implementasi algoritma dengan contoh penggunaan yang dapat di
 
 1. Clone repository ini ke Google Colab atau komputer lokal:
 
-git clone https://github.com/username/repository-name.git  
-cd repository-name
+git clone (https://github.com/07fathir/Praktikum-Search-Algorithm-Informed-Search-)
 
 
 2. Buka file yang diinginkan di Jupyter Notebook atau Google Colab
