@@ -23,11 +23,11 @@ Algoritma-algoritma ini digunakan untuk mencari jalur optimal dalam suatu graph 
 
 📁 File dalam Repository
 
-greedy_best_first.ipynb → Implementasi Greedy Best-First Search
+•greedy_best_first.ipynb → Implementasi Greedy Best-First Search
 
-a_star_tree.ipynb → Implementasi A Tree Search*
+•a_star_tree.ipynb → Implementasi A Tree Search*
 
-a_star_graph.ipynb → Implementasi A Graph Search*
+•a_star_graph.ipynb → Implementasi A Graph Search*
 
 
 Setiap file berisi implementasi algoritma dengan contoh penggunaan yang dapat diuji langsung.
@@ -41,7 +41,9 @@ git clone (https://github.com/07fathir/Praktikum-Search-Algorithm-Informed-Searc
 
 2. Buka file yang diinginkan di Jupyter Notebook atau Google Colab
 
-
+Greedy_Best_First.ipynb
+A_Star_Tree.ipynb
+A_Star_Graph.ipynb
 
 
 ---
